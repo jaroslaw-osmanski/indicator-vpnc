@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=vpnc indicator
+Exec=python HOME/.local/bin/indicator-vpnc.py
